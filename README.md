@@ -1,9 +1,9 @@
 - 👋 Hi Welcome, 
 - 🙌 My name is Jose Julian, I'm from Colombia CO 
 - 👀I’m interested in all world about Data, like data flow, data pipelines, data warehouse, data analysis, data visualization, Storytelling.
-- 🌱 I’m currently learning Python, Go, Pandas, Scraping, MSSQLserver, AWS Redshift, PostgrestSQL, TensorFlow, Sklearn.
+- 🌱 I’m currently learning Python, Go, Pandas, Scraping, MSSQLserver, AWS Redshift, PostgrestSQL, TensorFlow, GCP.
 - 💞️ I’m looking to collaborate on projects to growth in experience.
-- 📫 How to reach me in the email : josejmfu@gmail.com
+- 📫 How to reach me in the email : josejmosqueraf@gmail.com
 
 <!---
 Jotam1/Jotam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
