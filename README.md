@@ -1,5 +1,5 @@
 - 👋 Hi Welcome, 
-- 🙌 My name is Jose Julian, I'm originally from Colombia CO 
+- 🙌 My name is Jose Julian, I'm from Colombia CO 
 - 👀I’m interested in all world about Data, like data flow, data pipelines, data warehouse, data analysis, data visualization, Storytelling.
 - 🌱 I’m currently learning Python, Go, Pandas, Scraping, MSSQLserver, AWS Redshift, PostgrestSQL, TensorFlow, Sklearn.
 - 💞️ I’m looking to collaborate on projects to growth in experience.
