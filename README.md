@@ -1,7 +1,7 @@
-- 👋 Hi Welcome, 
+- 👋 Hi there, 
 - 🙌 My name is Jose Julian, I'm from Colombia CO 
-- 👀I’m interested in all world about Data, like data flow, data pipelines, data warehouse, data analysis, data visualization, Storytelling.
-- 🌱 I’m currently learning Python, Go, Pandas, Scraping, MSSQLserver, AWS Redshift, PostgrestSQL, TensorFlow, GCP.
+- 👀I’m interested in all world about Software Develop, Machine Learning, ML algorithms like Computer Vision, NLP, and desing patterns apply, data pipelines, data warehouse.
+- 🌱 I’m currently learning Python, Go, PHP, Typescript, TensorFlow, Keras, AWS, GCP and Azure.
 - 💞️ I’m looking to collaborate on projects to growth in experience.
 - 📫 How to reach me in the email : josejmosqueraf@gmail.com
 
